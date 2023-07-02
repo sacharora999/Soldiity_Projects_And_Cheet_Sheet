@@ -1,2 +1,2 @@
 #IGNORE .txt files for Git Commands
-.txt
+./*.txt
