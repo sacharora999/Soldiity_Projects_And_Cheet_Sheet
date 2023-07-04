@@ -4,5 +4,6 @@ git add .
 git status
 git commit -m "Solidity Child Smart Contragit cts Vs Structs"
 git branch -M main
+git remote remove origin
 git remote add origin https://github.com/sacharora999/Soldiity_Projects_And_Cheet_Sheet.git
 git push -u origin main
